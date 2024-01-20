@@ -1,0 +1,507 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 488,
+      "title": "telapiya fish reicpe",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/1516415/pexels-photo-1516415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": 4.5,
+      "time-duration": 488,
+      "title": "Classic Cheeseburger",
+      "author": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/750073/pexels-photo-750073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+  
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.8,
+      "time-duration": 400,
+      "title": "fish bbq",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://images.pexels.com/photos/2597565/pexels-photo-2597565.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": 4.3,
+      "time-duration": 400,
+      "title": "Vegetable Thai Green Curry",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    },
+  
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "3",
+      "rating": 4.5,
+      "time-duration": 980,
+      "title": "BBQ Bacon Burger",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://images.pexels.com/photos/2983101/pexels-photo-2983101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 980,
+      "title": "fish fry",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://images.pexels.com/photos/2374946/pexels-photo-2374946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    },
+  
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": 4.5,
+      "time-duration": null,
+      "title": "Stuffed Bell Peppers",
+      "author": {
+        "name": null,
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://images.pexels.com/photos/1684362/pexels-photo-1684362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+    },
+  
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": 4.5,
+      "time-duration": 111,
+      "title": "Veggie Delight",
+      "author": {
+        "name": "system",
+        "published_date": null,
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://images.pexels.com/photos/1199960/pexels-photo-1199960.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+    },
+  
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": 4.5,
+      "time-duration": 733,
+      "title": "dasfasdf",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://images.pexels.com/photos/361184/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "1,000 pairs of autographed Size 22 Reeboks were made available thanks to a partnership between Shaquille O’Neal and Steiner Sports. Shaquille O’Neal is a larger-than-life character "
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": 4.5,
+      "time-duration": 733,
+      "title": " chicken tanduri",
+      "author": {
+        "name": "Theo Minh Châu",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+      "image_url": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Mercedes’ George Russell arrived at the Zandvoort paddock wearing a Daniel Ricciardo merchandise ahead of the Dutch GP. Ricciardo is one of the most popular and marketable drivers in F1 today. Millions of fans around the world love and idolize him, and his merchandise is one of the highest-selling among all active F1 drivers. It seems as though George Russell himself is a huge fan of the former Red Bull star. Ahead of the 2022 Dutch Grand Prix, Russell ar"
+    },
+  
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": 4.5,
+      "time-duration": 127,
+      "title": "Bangladeshi rice",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+      "image_url": "https://images.pexels.com/photos/47546/sushi-eat-japanese-asia-47546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "COLORADO, USA — Happy Labor Day weekend! Although it may be the unofficial end to summer, there's still time to head of Gru — $2.7 million Thor: Love and Thunder — $2.6 million Where the Crawdads Sing — $2.3 million RELATED: Back to normal at the movies? What to expect this fall RELATED: 'The Invitation' tops tepid weekend at box office > Would you like to see your favorite Colorado festival, fair, expo, concert, drama, musical, ballet, run or event listed in 9Things? Send it to alexander.kirk@9news.com . 'A Taste of Colorado' — Denver Labor Day weekend tradition "
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": 4.5,
+      "time-duration": 127,
+      "title": "indian rice plate",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "published_date": "2022-08-25 18:53:49",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://images.pexels.com/photos/10295769/pexels-photo-10295769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High ”"
+    },
+  
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": 4.5,
+      "time-duration": 700,
+      "title": "Spicy Stir-Fried Eggplant",
+      "author": {
+        "name": "Daniel Deangelo",
+        "published_date": "2022-08-30 20:02:52",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/1555814/pexels-photo-1555814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "7",
+      "rating": 4.5,
+      "time-duration": 300,
+      "title": "hot spice beef",
+      "author": {
+        "name": "",
+        "published_date": "2022-08-24 22:30:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/12650938/pexels-photo-12650938.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Washington, Aug 24 (Prensa Latina) President Joe Biden has announced he will allot nearly billion in military aid to Kyiv – the biggest US package so far since the beginning of the Russian military…"
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 0,
+      "title": "spisy fish bbq",
+      "author": {
+        "name": "Reuters",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/262945/pexels-photo-262945.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Published: 25 Aug 2022, 09: 09 US president Joe Biden speaks as he attends the first virtual meeting of the   I2U2   group with Israeli prime minister Yair Lapid and leaders of India and the United Arab Emirates, in Jerusalem 14 July, 2022ReutersUS President Joe Biden marked Ukraine's Independence Day on Wednesday with $3 billion in security assistance, Washington's largest aid package since Russia's invasion six months ago but one that could take months or even years to arrive in Kyiv.The aid announcement came as US officials warned that Russia appeared to be planning to launch fresh attacks in coming days on Ukraine's civilian infrastructure and government facilities."
+    },
+    {
+      "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 320,
+      "title": "maxican fish dish",
+      "author": {
+        "name": "John Pike",
+        "published_date": "2022-08-25 07:35:11",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://images.pexels.com/photos/3763814/pexels-photo-3763814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "People's Daily Online (Xinhua) 08:16, August 25, 2022 The United States has committed more than 13.5 billion dollars in security assistance to Ukraine since President Joe Biden took office. WASHINGTON, Aug. 24 (Xinhua) -- The United States on Wednesday announced an additional tranche of security assistance to Ukraine worth nearly 3 billion U.S. dollars, the largest one-time "
+    },
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "2",
+      "rating": 4.5,
+      "time-duration": 552,
+      "title": "Roasted Vegetable Medley",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-27 05:38:02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+    },
+    {
+      "_id": "919db97c34e0778b387dd40cdfa08130",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 89,
+      "title": "crab sea fish",
+      "author": {
+        "name": "MarketScreener",
+        "published_date": "2022-08-30 18:05:42",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://images.pexels.com/photos/1123250/pexels-photo-1123250.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Last month, Moscow announced plans to hold   Vostok   (East) exercises from Aug. 30 to Sept. 5, even as it wages a costly war in Ukraine. The military exercises are expected to include China, India, Belarus, Mongolia, Tajikistan and other countries, China's defense ministry has said. Asked about India's participation, Jean-Pierre told reporters as President Joe Biden flew to Pennsylvania that the United States was concerned about any country participating in military exercises with Russia while it is at war with Ukraine."
+    },
+    {
+      "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 798,
+      "title": "rui torkery",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-25 18:45:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://images.pexels.com/photos/6605299/pexels-photo-6605299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "KIEV, August 25. /TASS/. Ukrainian President Vladimir Zelensky said he had a   great   phone conversation with his US counterpart Joe Biden and discussed with him Ukraine's further actions on Thursday.    Had a great conversation with @POTUS. Thanked for the unwavering U.S. support for Ukrainian people - security and financial,   he wrote on Twitter.   We discussed Ukraine's further steps,   Zelensky added.  On Wednesday, US President Joe Biden announced $2.98 bln in military aid to Ukraine. On the same day, Ukrainian Prime Minister Denis Shmygal reported that the Ukrainian state budget received grant aid from the US in the amount of $3 bln."
+    },
+    {
+      "_id": "acb9b6785b62698fc6130db7615965e1",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": 4.5,
+      "time-duration": 879,
+      "title": "Spicy Chicken Burger",
+      "author": {
+        "name": "RTTNews",
+        "published_date": "2022-08-25 11:53:13",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr="
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://images.pexels.com/photos/2345975/pexels-photo-2345975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+    },
+    {
+      "_id": "be44c843d61859cc0b87cae85c55f9db",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "1",
+      "rating": 4.5,
+      "time-duration": 231,
+      "title": "katla kaliya",
+      "author": {
+        "name": "Kumar Natasha",
+        "published_date": "2022-08-26 12:15:36",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://images.pexels.com/photos/6605299/pexels-photo-6605299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Illustrative public photo In the coming weeks, the Joe Biden administration plans to name its military mission to support Ukraine and appoint a general to lead the military training and relief efforts. This is reported by The Wall Street Journal, citing US officials. The name of the operation formally recognizes US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'. The naming of training and assistance is of great bureaucratic importance, as it usually entails long-term dedicated funding and the possibility of special pay, rewards for military personnel participating in these missions."
+    },
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "2",
+      "rating": 4.5,
+      "time-duration": 546,
+      "title": "yeammy vagetable",
+      "author": {
+        "name": "The Philadelphia Inquirer",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "3",
+      "rating": 4.5,
+      "time-duration": 1870,
+      "title": "Simple Slider",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://images.pexels.com/photos/2983098/pexels-photo-2983098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "published_date": "2022-08-24 18:00:00",
+      "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "7",
+      "rating": 4.2,
+      "time-duration": 354,
+      "title": "Beef kabbab",
+      "author": {
+        "name": "Presstv",
+        "published_date": "2022-08-30 17:44:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits actress recalled an encounter she had at the 2019 London premiere of 'The Lion King' with an actor from South Africa who made a comparison to her wedding with Prince Harry and Nelson Mand"
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "5",
+      "rating": 4.5,
+  
+      "time-duration": 100,
+      "title": "thai rice boal",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://images.pexels.com/photos/723198/pexels-photo-723198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "4",
+      "rating": 4.5,
+  
+      "time-duration": 100,
+      "title": "france chicken fry",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-26 00:37:24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+      "image_url": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this w"
+    }
+  ]
+  
