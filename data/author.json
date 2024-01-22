@@ -1,0 +1,50 @@
+[
+    {
+        "chefPicture": "https://media.istockphoto.com/id/932004448/photo/female-chef-working-at-a-restaurant.jpg?s=1024x1024&w=is&k=20&c=KZM2-dq9UyEjS6MMosCghkcbLp0yJJ7-IJnMSZ4bYoI=",
+        "chefName": "Chef Emma Mitul",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 120,
+        "likes": 3500,
+        "viewRecipesButton": "View Recipes of Chef Emma"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/642958618/photo/chef-presenting-a-plate-at-the-restaurant.jpg?s=2048x2048&w=is&k=20&c=E-RLupVYqB-s5ZBGHJa3P2ttj4p8k5OZ-3hbn86m4nM=",
+        "chefName": "Chef Liam Brown",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 200,
+        "likes": 5000,
+        "viewRecipesButton": "View Recipes of Chef Liam"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/576578192/photo/indian-male-chef-showing-ok-sign.jpg?s=1024x1024&w=is&k=20&c=_68YWKVV-UdfHjDHj2Awqs_mCVcyU9wiUvJqsUXjbqU=",
+        "chefName": "Chef Ava Davis",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 80,
+        "likes": 2500,
+        "viewRecipesButton": "View Recipes of Chef Ava"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/1457860882/photo/portrait-of-a-young-woman-cooking-food-in-the-kitchen-stock-photo.jpg?s=1024x1024&w=is&k=20&c=NECotjTsdTJs4GQHL7Tlxa-t3PWNfRN8shqVQ1LUw6w=",
+        "chefName": "Chef Noah Miller",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 60,
+        "likes": 1500,
+        "viewRecipesButton": "View Recipes of Chef Noah"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/666908954/photo/handsome-chef-pouring-olive-oil-on-meal.jpg?s=1024x1024&w=is&k=20&c=9tUx_yV12Ev4flFhnsvR4MLZ6d25w7LZ8fv7aJBv6nI=",
+        "chefName": "Chef Sophia Lee",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 100,
+        "likes": 3000,
+        "viewRecipesButton": "View Recipes of Chef Sophia"
+    },
+    {
+        "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "chefName": "Chef Mason Chen",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": 150,
+        "likes": 4000,
+        "viewRecipesButton": "View Recipes of Chef Mason"
+    }
+]

@@ -6,14 +6,20 @@ const cors = require("cors");
 app.use(cors());
 const categories = require("./data/categories.json");
 const items = require("./data/items.json");
+const auhtor = require('./data/author.json')
 
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
+
+app.get("/author", (req, res)=>{
+  res.send(auhtor)
+})
 app.get("/items/:id", (req, res) => {
   const id = req.params.id;
   const singleItems = items.find((n) => n.category_id == id);
   res.send(singleItems);
+  console.log(id)
 });
 
 app.get("/categories/:id", (req, res) => {
