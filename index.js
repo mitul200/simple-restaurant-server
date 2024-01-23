@@ -5,7 +5,8 @@ const cors = require("cors");
 
 app.use(cors());
 const categories = require("./data/categories.json");
-const items = require("./data/items.json");
+const items = require("./data/items.json"); 
+
 const auhtor = require('./data/author.json')
 
 app.get("/categories", (req, res) => {
